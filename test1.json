@@ -31,5 +31,18 @@
 
     "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
   ]
+},{
+  "id": "ws_003",
+  "title_th": "สมุดระบายสีสัตวกดก์",
+  "title_en": "Animal Coloring Book",
+  "category_th": "ระบายสี",
+  "category_en": "Coloring",
+  "cover": "https://xn--q3caqql0avca2fsa7ntb1d.com/wp-content/uploads/2023/09/Screenshot-6406.png",
+  "pdf": "https://zerosocket.xyz/zero/test.pdf",
+  "cost": 30,
+  "preview": [
+
+    "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
+  ]
 }
 ]
