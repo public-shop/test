@@ -17,7 +17,9 @@
       "https://storage.googleapis.com/fastwork-static/9d1602ab-a0eb-4fa8-9c00-68e12dede334.jpg",
       "https://storage.googleapis.com/fastwork-static/8e251872-8e79-48d0-a4f3-28014a4d0a22.jpg",
       "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
-    ]
+    ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "kids", "cartoon"]
   },{
   "id": "ws_002",
   "title_th": "สมุดระบายสีสัตวกดก์",
@@ -30,7 +32,9 @@
   "preview": [
 
     "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
-  ]
+  ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "kids", "cartoon"]
 },{
   "id": "ws_003",
   "title_th": "สมุดระบายสีสัตวกดก์",
@@ -43,7 +47,9 @@
   "preview": [
 
     "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
-  ]
+  ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "kids", "cartoon"]
 },{
   "id": "ws_004",
   "title_th": "สมุดระบายสีสัตวกดก์",
@@ -56,7 +62,9 @@
   "preview": [
 
     "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
-  ]
+  ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "tt", "kids", "cartoon"]
 },{
   "id": "ws_005",
   "title_th": "สมุดระบายสีสัตวกดก์",
@@ -70,6 +78,9 @@
 
     "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
   ]
+,
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "aa", "cartoon"]
 },{
   "id": "ws_006",
   "title_th": "สมุดระบายสีสัตวกดก์",
@@ -82,6 +93,8 @@
   "preview": [
 
     "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
-  ]
+  ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "kids", "test"]
 }
 ]
