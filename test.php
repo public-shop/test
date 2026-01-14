@@ -102,7 +102,7 @@
   "title_en": "Animal Coloring Book",
   "category_th": "ระบายสี",
   "category_en": "Coloring",
-  "cover": "",
+  "cover": "https://xn--q3caqql0avca2fsa7ntb1d.com/wp-content/uploads/2023/09/Screenshot-6406.png",
   "pdf": "https://zerosocket.xyz/zero/test.pdf",
   "cost": 30,
   "preview": [
@@ -133,6 +133,21 @@
   "category_th": "ระบายสี",
   "category_en": "Coloring",
   "cover": "https://scontent.fbkk2-8.fna.fbcdn.net/v/t1.6435-9/187136255_272438718008578_5040720845101361395_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dq56UqwMucIQ7kNvwHrMGim&_nc_oc=AdlRnCALs3sLduzMM-F2ph9NjlW4D3UbBPFar1uSO7EzPPiH686D3-UhWCGD8DIl-Go&_nc_zt=23&_nc_ht=scontent.fbkk2-8.fna&_nc_gid=kNFZemwtT8TdkhJirSzdsA&oh=00_AfpW6xE66ZZd7SDAbnuIkrLQBuz28dSOg4yjtjSwpCFZ7w&oe=698D3175",
+  "pdf": "https://zerosocket.xyz/zero/test.pdf",
+  "cost": 30,
+  "preview": [
+
+    "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
+  ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "kids", "cartoon"]
+},{
+  "id": "ws_010",
+  "title_th": "สมุดระบายสีสัตวกดก์",
+  "title_en": "Animal Coloring Book",
+  "category_th": "ระบายสี",
+  "category_en": "Coloring",
+   "cover": "https://xn--q3caqql0avca2fsa7ntb1d.com/wp-content/uploads/2023/09/Screenshot-6406.png",
   "pdf": "https://zerosocket.xyz/zero/test.pdf",
   "cost": 30,
   "preview": [
