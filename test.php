@@ -96,5 +96,20 @@
   ],
   "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
   "tags_en": ["animals", "coloring", "kids", "test"]
+},{
+  "id": "ws_007",
+  "title_th": "สมุดระบายสีสัตวกดก์",
+  "title_en": "Animal Coloring Book",
+  "category_th": "ระบายสี",
+  "category_en": "Coloring",
+  "cover": "",
+  "pdf": "https://zerosocket.xyz/zero/test.pdf",
+  "cost": 30,
+  "preview": [
+
+    "https://storage.googleapis.com/fastwork-static/7b4adb44-7139-4358-8cb3-741583d69be4.jpg"
+  ],
+  "tags_th": ["สัตว์", "ระบายสี", "เด็ก", "การ์ตูน"],
+  "tags_en": ["animals", "coloring", "kids", "test"]
 }
 ]
