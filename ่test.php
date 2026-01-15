@@ -21,5 +21,28 @@
     "tags_en": [
       "dgfdfg"
     ]
+  },
+  {
+    "id": "XBEGuGJnKg",
+    "title_th": "กดแห",
+    "title_en": "vdvffd",
+    "category_th": "dfsdf",
+    "category_en": "gfdesfgdf",
+    "cover": "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/cover.jpg",
+    "pdf": "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/doc.pdf",
+    "cost": 30,
+    "preview": [
+      "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/preview_1.jpg",
+      "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/preview_2.jpg",
+      "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/preview_3.jpg",
+      "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/preview_4.jpg",
+      "https://raw.githubusercontent.com/public-shop/test/main/storage/XBEGuGJnKg/preview_5.jpg"
+    ],
+    "tags_th": [
+      "ดกห"
+    ],
+    "tags_en": [
+      "fghg"
+    ]
   }
 ]
